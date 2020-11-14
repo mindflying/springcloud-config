@@ -1,1 +1,2 @@
-config.info="this is test version=1"
+config:
+  info: "master branch, this is test, version1"
